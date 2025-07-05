@@ -18,30 +18,32 @@
 
 ### 👋 About Me
 
-- 🧠 CT researcher contributor  
-- 🌐 Learning ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs&logoColor=white) Developer  
-- 🧪 Curious, creative, constantly evolving.
+> "I don't just write code — I **engineer possibilities**."
+
+- 👨‍💻 Self-taught developer, Web3 explorer, CT researcher  
+- 🧠 Always curious, always learning  
+- ⚒️ Turning 0s and 1s into smart contracts and secure systems  
+- 🌍 Building in public. Learning with the world.
+
+### 🚀 Tech I'm Exploring
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs)
+![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum)
+
 
 ---
-
-### 🔍 Currently Into
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)  
-
----
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metabooy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=metabooy&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metabooy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
 ---
 
-> **This shall grow.** Stay tuned 👀
+>### 📌 Stay connected, stay creative.
