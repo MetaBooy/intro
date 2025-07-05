@@ -9,8 +9,9 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meta_booy&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=metabooy&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
