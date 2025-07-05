@@ -18,7 +18,6 @@
 
 ### 👋 About Me
 
-> "I don't just write code — I **engineer possibilities**."
 
 - 👨‍💻 Self-taught developer, Web3 explorer, CT researcher  
 - 🧠 Always curious, always learning  
